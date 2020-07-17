@@ -1,0 +1,28 @@
+body{
+    background-color:whitesmoke;
+    font-family: 'Courier New', Courier, monospace ;
+    font-weight: bold;
+    
+}
+label{
+    display: inline-flexbox;
+    width: 400px;
+    margin-left: 15px;
+}
+div{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+button{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 15px;
+    width: 70px;
+}
+input{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100px;
+    height: 20px;
+    margin-left: 45px;
+}
